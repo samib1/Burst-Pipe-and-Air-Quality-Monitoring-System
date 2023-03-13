@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "418045523390",
+    "firebase_url": "https://g12-iot-air-water-monitor-db-default-rtdb.firebaseio.com",
+    "project_id": "g12-iot-air-water-monitor-db",
+    "storage_bucket": "g12-iot-air-water-monitor-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418045523390:android:73d91e3bf525ab0302b5ef",
+        "android_client_info": {
+          "package_name": "com.example.app_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418045523390-b56agqahh8cim7r7c570fb9sioe3ut1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQsOUNwg3GDZOUjAvqXLtoIXiuBVsSh5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418045523390-b56agqahh8cim7r7c570fb9sioe3ut1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
