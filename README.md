@@ -28,10 +28,13 @@ To allow the user to monitor and control their home monitoring systems namely th
 ![ui 1](https://github.com/samib1/Burst-Pipe-and-Air-Quality-Monitoring-System/blob/6b712d3e5862916afb1cb12dffa304037028d06e/images/5.%20Login,%20Sign%20UI.png)
 
 ## UI Main Page
-![ui 2](https://github.com/samib1/Burst-Pipe-and-Air-Quality-Monitoring-System/blob/6b712d3e5862916afb1cb12dffa304037028d06e/images/6.%20Main%20page.png)
+<img src="https://github.com/samib1/Burst-Pipe-and-Air-Quality-Monitoring-System/blob/6b712d3e5862916afb1cb12dffa304037028d06e/images/6.%20Main%20page.png" width=40% height=50%>
+
+<!--![ui 2](https://github.com/samib1/Burst-Pipe-and-Air-Quality-Monitoring-System/blob/6b712d3e5862916afb1cb12dffa304037028d06e/images/6.%20Main%20page.png) -->
 
 ## UI Water Supply Line Monitoring Page
-![ui 3](https://github.com/samib1/Burst-Pipe-and-Air-Quality-Monitoring-System/blob/6b712d3e5862916afb1cb12dffa304037028d06e/images/7.%20Water%20supply%20line%20page.png)
+<img src="https://github.com/samib1/Burst-Pipe-and-Air-Quality-Monitoring-System/blob/6b712d3e5862916afb1cb12dffa304037028d06e/images/7.%20Water%20supply%20line%20page.png" width=40% height=50%>
+
 
 ## UI Air Quality Monitoring Page
-![ui 4](https://github.com/samib1/Burst-Pipe-and-Air-Quality-Monitoring-System/blob/6b712d3e5862916afb1cb12dffa304037028d06e/images/8.%20Air%20quality%20page.png)
+<img src="https://github.com/samib1/Burst-Pipe-and-Air-Quality-Monitoring-System/blob/6b712d3e5862916afb1cb12dffa304037028d06e/images/8.%20Air%20quality%20page.png" width=40% height=50%>
