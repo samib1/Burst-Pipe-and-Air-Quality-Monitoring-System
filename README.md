@@ -33,6 +33,8 @@ To allow the user to monitor and control their home monitoring systems namely th
 <!--![ui 2](https://github.com/samib1/Burst-Pipe-and-Air-Quality-Monitoring-System/blob/6b712d3e5862916afb1cb12dffa304037028d06e/images/6.%20Main%20page.png) -->
 
 ## UI Water Supply Line Monitoring Page
+<img src="https://github.com/samib1/Burst-Pipe-and-Air-Quality-Monitoring-System/assets/68975638/5b85c8f3-52aa-499c-b358-c7308f28f8d9" width=40% height=50%>
+
 
 
 ## UI Air Quality Monitoring Page
